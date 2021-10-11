@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools">
+    <TextView
+        android:id="@+id/textCity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        tools:textColor="@color/black"
+        tools:text="Dallas"/>
+
+    <TextView
+        android:id="@+id/textDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:layout_gravity="center"
+        tools:textColor="@color/black"
+        tools:text="Today is the Day"/>
+
+    <TextView
+        android:id="@+id/textDegrees"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="48sp"
+        android:layout_gravity="center"
+        tools:textColor="@color/black"
+        tools:text="89"/>
+</LinearLayout>

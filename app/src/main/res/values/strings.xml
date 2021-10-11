@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AllTheWeatherApp</string>
+    <string name="header_text_time">Time</string>
+    <string name="header_text_temp">Temp</string>
+    <string name="header_text_change_of_rain">Change of Rain</string>
+    <string name="header_text_wind_mph">Wind(mph)</string>
+    <string name="header_text_humidity">Humidity</string>
+    <string name="menu_title_delete_city">Delete city</string>
+    <string name="menu_title_show_map">Show map</string>
+    <string name="search_city_name">City name</string>
+    <string-array name="city_array">
+        <item>Fairhope</item>
+        <item>Florence</item>
+        <item>Calera</item>
+    </string-array>
+    <string name="city_fairhope">4061234</string>
+    <string name="city_florence">4062577</string>
+    <string name="city_calera">4051894</string>
+</resources>
